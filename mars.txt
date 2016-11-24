@@ -4,3 +4,6 @@ Author: Joel Gordon
 Affiliation: Scion
 
 Title: Paper about planets and stars.
+
+References:
+(from the reference.bit file)
