@@ -5,5 +5,7 @@ Affiliation: Scion
 
 Title: Paper about planets and stars.
 
+Data and results
+
 References:
 (from the reference.bit file)
