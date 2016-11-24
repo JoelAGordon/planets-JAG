@@ -1,1 +1,6 @@
 This is my first draft on the planets.
+
+Author: Joel Gordon
+Affiliation: Scion
+
+Title: Paper about planets and stars.
